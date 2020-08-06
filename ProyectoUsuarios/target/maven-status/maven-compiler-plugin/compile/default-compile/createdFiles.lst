@@ -1,0 +1,9 @@
+Dao\MarcaBD.class
+Dao\Producto.class
+Config\Conexion.class
+Dao\Cantidad.class
+Dao\CantidadBD.class
+Dao\Marca.class
+com\mycompany\ProyectoUsuarios\resources\JavaEE8Resource.class
+Dao\ProductoBD.class
+com\mycompany\ProyectoUsuarios\JAXRSConfiguration.class
